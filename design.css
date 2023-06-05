@@ -58,8 +58,12 @@ section{
     color: var(--text-color);
     font-weight: 600;
     cursor: default;
-}
 
+}
+.logo_name{
+    font-family: 'Sacramento', cursive;
+    font-size: 3.5rem;
+}
 .navbar a{
     font-size: 1.7rem;
     color: var(--text-color);
